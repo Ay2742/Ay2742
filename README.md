@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Annika Yadav</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
+<img align= "right" alt = "coding" width = "400" src = https://i0.wp.com/apt4power.com/wp-content/uploads/2021/08/Cybersecurity-Penetration-Testing.gif?resize=800%2C450&ssl=1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ay2742&label=Profile%20views&color=0e75b6&style=flat" alt="ay2742" /> </p>
 
